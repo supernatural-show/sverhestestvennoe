@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="screen.webp" alt="Сверхъестественное» App preview">
+  <img src="screen.png" alt="Сверхъестественное» App preview">
 </p>
 
 ## Скачать
