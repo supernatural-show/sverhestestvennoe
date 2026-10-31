@@ -17,7 +17,7 @@
 | Платформа | Скачать |
 |----------|---------|
 | Android | [supernatural-android-1.0.1.apk](https://github.com/supernatural-show/sverhestestvennoe/releases/download/v1.0/supernatural-android-1.0.1.apk) |
-| Web | [sverhestestvennoe.name](https://sverhestestvennoe.my/) |
+| Web | [sverhestestvennoe.my](https://sverhestestvennoe.my/) |
 
 Все версии и checksums доступны в [Releases](https://github.com/supernatural-show/sverhestestvennoe/releases).
 
